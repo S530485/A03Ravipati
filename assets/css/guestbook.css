@@ -1,0 +1,17 @@
+body{
+    background-color: green;
+    color: white;
+}
+.panel-default > .panel-body{
+    color:white;
+    background: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    color: white;
+    text-align: center;
+}
+#section {
+    color: white;
+    text-align: center;
+}

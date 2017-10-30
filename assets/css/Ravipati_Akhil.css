@@ -1,0 +1,77 @@
+body{
+
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Arial", Helvetica, sans-serif;
+    
+}
+
+.divborder{
+
+    color: white;
+	border-style: solid;
+	margin: auto;
+	padding: 10px;
+    max-width: 505px;
+    text-align: center;
+}
+
+#h1div{
+	margin: auto;
+	padding: 10px;
+	max-width: 500px;
+	text-align: center;
+    font-family: "Arial", Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+#bodydiv{
+	text-align: center;
+}
+
+.groove{
+	border-style: groove;
+	margin:auto;
+	padding: 10px;
+	max-width: 500px;
+}
+
+p.dotted{
+	border-style: dotted;
+	margin:auto;
+	padding: 10px;
+	max-width: 500px;
+}
+
+p.double{
+	border-style: double;
+	margin:auto;
+	padding: 10px;
+	max-width: 500px;
+}
+
+p.dashed{
+	border-style: dashed;
+	margin:auto;
+	padding: 10px;
+	max-width: 500px;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+
+div.frame {
+	text-align: center;
+}
+
+#section {
+    color: white;
+    text-align: center;
+}
+
+h6{
+    color: white;
+}
